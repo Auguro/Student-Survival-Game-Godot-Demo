@@ -44,10 +44,3 @@ Developed in 2019 for the Software Engineering course at IFRS as a creative proj
 
 ## ⚠️ Note
 Biology mode is currently non-functional and marked as work-in-progress. Mathematics and Portuguese modes are fully playable.
-```
-
----
-
-**About sugerido:**
-```
-Multi-genre game where university exams become unique gameplay challenges. Map based on real IFRS campus - Godot Engine (2019)
